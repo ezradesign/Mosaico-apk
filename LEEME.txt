@@ -1,0 +1,4 @@
+Compilado desde a2e841c el 2026-11-26 23:08 UTC
+versionCode=137
+versionName=0.3.0-alpha141
+novedades=alpha141: Intro con teclado ya no abre dos veces (Inicio, Terminal, Ejecutar); Inicio y los menús se cierran si otra app pasa delante
