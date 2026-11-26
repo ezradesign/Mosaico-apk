@@ -1,0 +1,4 @@
+Compilado desde ae4fa59 el 2026-11-26 17:11 UTC
+versionCode=107
+versionName=0.3.0-alpha113
+novedades=alpha113: una ventana traída desde la barra ya no se minimiza sola por tapar una app a pantalla completa
