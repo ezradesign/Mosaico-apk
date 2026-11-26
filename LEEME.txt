@@ -1,0 +1,4 @@
+Compilado desde 5ec6e68 el 2026-11-26 17:41 UTC
+versionCode=111
+versionName=0.3.0-alpha117
+novedades=alpha117: Administrador de tareas cómodo en ventana (menú con iconos, acciones en …); Teclas de PC: Win+tecla hace los atajos de Mosaico y las ventanas no quedan debajo
