@@ -1,0 +1,4 @@
+Compilado desde bd5fd0b el 2026-11-26 22:19 UTC
+versionCode=128
+versionName=0.3.0-alpha132
+novedades=alpha132: Panel de control de Linux y Windows (actualizar Linux, perfil de Wine, winecfg, administrador de tareas y espacio)
