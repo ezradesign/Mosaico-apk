@@ -1,0 +1,4 @@
+Compilado desde f80f8bb el 2026-11-26 14:44 UTC
+versionCode=101
+versionName=0.3.0-alpha107
+novedades=alpha107: las ventanas que tapan una app a pantalla completa se minimizan solas, y se recolocan al girar la pantalla
