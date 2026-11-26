@@ -1,0 +1,4 @@
+Compilado desde fc27b87 el 2026-11-26 22:23 UTC
+versionCode=130
+versionName=0.3.0-alpha134
+novedades=alpha134: instalar un .apk con un doble toque desde el Explorador o el escritorio, con aviso si es una versión más antigua
