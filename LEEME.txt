@@ -1,0 +1,4 @@
+Compilado desde 195dec7 el 2026-11-26 22:22 UTC
+versionCode=129
+versionName=0.3.0-alpha133
+novedades=alpha133: al cerrar el programa de Windows la ventana vuelve a llamarse Termux:X11 (barra y marco)
