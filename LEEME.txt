@@ -1,0 +1,4 @@
+Compilado desde f8922ff el 2026-11-26 17:46 UTC
+versionCode=112
+versionName=0.3.0-alpha118
+novedades=alpha118: Mosaico como entorno de escritorio completo para tablets Android (README), modo ligero automático con poca RAM, ROADMAP con lo aprobado el 26-11 noche
