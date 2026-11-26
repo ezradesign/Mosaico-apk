@@ -1,0 +1,4 @@
+Compilado desde 166cbb4 el 2026-11-26 22:53 UTC
+versionCode=135
+versionName=0.3.0-alpha139
+novedades=alpha139: las apps de Linux van en una carpeta por distro en Todas las aplicaciones, como con WSL
