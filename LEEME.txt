@@ -1,0 +1,4 @@
+Compilado desde 72b043a el 2026-11-26 17:25 UTC
+versionCode=108
+versionName=0.3.0-alpha114
+novedades=alpha114: Administrador de tareas con pestaña Detalles: todos los procesos de Android, Linux y Windows con CPU y memoria, Congelar y Finalizar
