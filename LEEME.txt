@@ -1,0 +1,4 @@
+Compilado desde 9c260e6 el 2026-11-26 21:47 UTC
+versionCode=123
+versionName=0.3.0-alpha127
+novedades=alpha127: el nombre del programa de Windows sale de su información de versión (PuTTY)
