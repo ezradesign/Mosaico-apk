@@ -1,0 +1,4 @@
+Compilado desde be85ab6 el 2026-11-26 17:59 UTC
+versionCode=113
+versionName=0.3.0-alpha119
+novedades=alpha119: firma con clave nueva y rotación v3.1 (las instalaciones se actualizan encima), clave fuera del repo y en secretos de Actions; el lanzador de .exe encuentra de verdad el X y el Wine viejo
