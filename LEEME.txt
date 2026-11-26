@@ -1,0 +1,4 @@
+Compilado desde 740a773 el 2026-11-26 18:17 UTC
+versionCode=118
+versionName=0.3.0-alpha122
+novedades=alpha122: carpeta de usuario común (Escritorio, Documentos, Descargas… de Wine y de Linux son las de la tableta)
