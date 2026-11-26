@@ -1,0 +1,4 @@
+Compilado desde 96a329f el 2026-11-26 22:08 UTC
+versionCode=125
+versionName=0.3.0-alpha129
+novedades=alpha129: probado en un emulador de 1280x800 sin capa del fabricante: marco correcto al maximizar sin ADB y botones del asistente sin cortar
