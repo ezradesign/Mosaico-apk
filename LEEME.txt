@@ -1,0 +1,4 @@
+Compilado desde 1383049 el 2026-11-26 17:27 UTC
+versionCode=110
+versionName=0.3.0-alpha116
+novedades=HANDOFF: estado al parar (alpha116) para migrar de cuenta
