@@ -1,0 +1,4 @@
+Compilado desde 7a268b5 el 2026-11-26 21:23 UTC
+versionCode=119
+versionName=0.3.0-alpha123
+novedades=alpha123: Wine ya no sale en negro (cierra de verdad el Wine viejo y pantalla X de tamaño fijo), toques donde se toca en Termux:X11, carpetas comunes en Linux con proot-distro 5 y sin aviso de foco de XFCE; portapapeles compartido probado
