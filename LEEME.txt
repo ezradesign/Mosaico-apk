@@ -1,0 +1,4 @@
+Compilado desde 09ea5d9 el 2026-11-26 22:28 UTC
+versionCode=132
+versionName=0.3.0-alpha136
+novedades=alpha136: una ventana que se quedó fuera de la pantalla vuelve a su sitio al tocarla en la barra de tareas
