@@ -1,0 +1,4 @@
+Compilado desde 73d0073 el 2026-11-26 16:38 UTC
+versionCode=104
+versionName=0.3.0-alpha110
+novedades=alpha110: Windows en Mosaico, Wine para ARM (hangover-wine de Termux) instalado con un toque y los .exe, .msi y .bat se abren con un doble toque en Termux:X11
