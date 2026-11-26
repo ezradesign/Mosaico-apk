@@ -1,0 +1,4 @@
+Compilado desde 58d82c8 el 2026-11-26 23:01 UTC
+versionCode=136
+versionName=0.3.0-alpha140
+novedades=alpha140: las apps de Linux abiertas desde Inicio ya no se cierran al momento (proot las mataba al terminar la orden)
