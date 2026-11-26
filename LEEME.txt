@@ -1,0 +1,4 @@
+Compilado desde 95fc5be el 2026-11-26 21:34 UTC
+versionCode=121
+versionName=0.3.0-alpha125
+novedades=alpha125: textos sin marcas (Dibujo, Transparencia, Wine en vez de 'Windows') y avisos de licencia de terceros en Acerca de
