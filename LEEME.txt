@@ -1,0 +1,4 @@
+Compilado desde 25ec2ae el 2026-11-26 23:22 UTC
+versionCode=139
+versionName=0.3.0-alpha143
+novedades=alpha143: los .html se abren con el navegador predeterminado; hoja de ruta con las ideas aprobadas el 27-11 y HANDOFF al día
