@@ -1,0 +1,4 @@
+Compilado desde 062240d el 2026-11-26 16:31 UTC
+versionCode=103
+versionName=0.3.0-alpha109
+novedades=alpha109: las actualizaciones se instalan solas al apagar la pantalla; volver a una versión anterior desinstalando del todo y recuperando los ajustes (Android no deja bajar de versión de otra forma); roadmap con las ideas nuevas
