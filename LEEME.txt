@@ -1,0 +1,4 @@
+Compilado desde 7c00d18 el 2026-11-26 16:55 UTC
+versionCode=105
+versionName=0.3.0-alpha111
+novedades=alpha111: Windows y Linux se instalan solos al abrir el primer .exe o .deb, con barra de progreso; asistente inicial con ¿programas de Windows? y ¿apps de Linux? y 'Estamos preparando tu dispositivo'; sin límite de procesos de Android (cerraba el servidor X con Wine); no repetir el .exe con el doble toque; tras volver de versión no reinstalar sola la nueva
