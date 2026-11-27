@@ -1,0 +1,4 @@
+Compilado desde 81414d6 el 2026-11-27 15:31 UTC
+versionCode=177
+versionName=0.3.0-alpha181
+novedades=alpha181: Tzar se ve y se juega: SDL por software (con llvmpipe la imagen se congelaba al cambiar el juego a 1024x768), pantalla X fija de 1024x768 con la ventana centrada, se esconden los restos de Wine mientras está abierto, la ventana buena de QEMU es la más grande, y la pantalla hace de panel táctil para el ratón de Windows 98
