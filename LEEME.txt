@@ -1,0 +1,4 @@
+Compilado desde c477b96 el 2026-11-27 09:16 UTC
+versionCode=140
+versionName=0.3.0-alpha144
+novedades=alpha144: Wine con la pantalla X del tamaño de la pantalla (no de la ventana: salía 1144x384 con bandas), abrir accesos .lnk, juegos portables con PC virtual (QEMU de Termux), Configuración cambia de página si ya estaba abierta
