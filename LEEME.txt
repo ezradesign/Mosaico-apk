@@ -1,0 +1,4 @@
+Compilado desde 70fd7b7 el 2026-11-27 10:49 UTC
+versionCode=165
+versionName=0.3.0-alpha169
+novedades=alpha168-169: Configuración rápida como Windows 11 (seis botones a la vista, Más para el resto, brillo y volumen siempre visibles)
