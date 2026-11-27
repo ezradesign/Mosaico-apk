@@ -1,0 +1,4 @@
+Compilado desde 2fe9191 el 2026-11-27 09:59 UTC
+versionCode=151
+versionName=0.3.0-alpha155
+novedades=alpha153-155: la barra recuerda las apps abiertas y minimizadas si Mosaico se reinicia (al actualizarse) sin el servicio privilegiado, y Termux:X11 sigue llamándose como el programa abierto
