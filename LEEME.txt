@@ -1,0 +1,4 @@
+Compilado desde a38f4bd el 2026-11-27 11:07 UTC
+versionCode=171
+versionName=0.3.0-alpha175
+novedades=alpha171-175: el centro de notificaciones cabe entero en pantalla junto al calendario
