@@ -1,0 +1,4 @@
+Compilado desde 40d20cf el 2026-11-27 16:44 UTC
+versionCode=183
+versionName=0.3.0-alpha187
+novedades=alpha186-187: restaurar sin ADB ya no hace el gesto Atrás (el arrastre empezaba junto al borde), y Ajustes de Android abierto en una página se reconoce sin ADB (barra y marco); HANDOFF
