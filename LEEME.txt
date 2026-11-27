@@ -1,0 +1,4 @@
+Compilado desde 87139ad el 2026-11-27 09:46 UTC
+versionCode=147
+versionName=0.3.0-alpha151
+novedades=alpha151: una app que pasa delante tapada por ventanas libres las aparta también sin el servicio privilegiado (tras reiniciar sin Wi-Fi)
