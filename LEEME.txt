@@ -1,0 +1,4 @@
+Compilado desde 6ccde30 el 2026-11-27 16:36 UTC
+versionCode=181
+versionName=0.3.0-alpha185
+novedades=alpha185: Actualizaciones dice el error si no se pudo descargar (antes lo tapaba 'Hay una actualización disponible')
