@@ -1,0 +1,4 @@
+Compilado desde 3889b69 el 2026-11-27 21:45 UTC
+versionCode=188
+versionName=0.3.0-alpha192
+novedades=alpha192: ajustes unificados (tamaño del texto, apagado de la pantalla y formato de 24 horas dentro de Configuración); HANDOFF
