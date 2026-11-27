@@ -1,0 +1,4 @@
+Compilado desde 6882895 el 2026-11-27 10:56 UTC
+versionCode=166
+versionName=0.3.0-alpha170
+novedades=alpha170: Recorte y Grabar pantalla en Configuración rápida (sin teclado)
