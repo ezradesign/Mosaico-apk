@@ -1,0 +1,4 @@
+Compilado desde 8431f52 el 2026-11-27 10:32 UTC
+versionCode=161
+versionName=0.3.0-alpha165
+novedades=alpha162-165: Alt+Tab táctil deslizando el dedo de lado sobre la barra de tareas; HANDOFF
