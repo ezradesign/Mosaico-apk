@@ -1,0 +1,4 @@
+Compilado desde 5873d4f el 2026-11-27 10:18 UTC
+versionCode=157
+versionName=0.3.0-alpha161
+novedades=alpha156-161: iconos originales de los programas de Windows (.exe y el programa de cada .lnk, copiado de Wine) y de las apps de Linux (PNG de la distro) en el escritorio, Inicio, la búsqueda y la barra, automáticos
