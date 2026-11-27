@@ -1,0 +1,4 @@
+Compilado desde 08b2e93 el 2026-11-27 21:30 UTC
+versionCode=187
+versionName=0.3.0-alpha191
+novedades=HANDOFF: límites de la limpieza de apps cerradas sin ADB
