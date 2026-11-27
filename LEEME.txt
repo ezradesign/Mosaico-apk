@@ -1,0 +1,4 @@
+Compilado desde 0d78482 el 2026-11-27 13:51 UTC
+versionCode=176
+versionName=0.3.0-alpha180
+novedades=alpha180: Tzar y los PC virtuales rápidos (la pantalla X toma el tamaño de su imagen y Termux:X11 la amplía con la GPU; antes QEMU la ampliaba por software y Windows 98 tardaba minutos), Termux abierto por dentro ya no sale en la barra de tareas
