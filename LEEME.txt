@@ -1,0 +1,4 @@
+Compilado desde 3c1a19d el 2026-11-27 13:38 UTC
+versionCode=174
+versionName=0.3.0-alpha178
+novedades=alpha178: sonido en los PC virtuales (PulseAudio por TCP), el icono del juego se recuerda tras reiniciarse Mosaico, el asistente deja listos QEMU/xdotool/7-Zip, y tras instalar un programa de Windows sus accesos del menú Inicio van al escritorio; HANDOFF
