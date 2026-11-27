@@ -1,0 +1,4 @@
+Compilado desde af2ac12 el 2026-11-27 13:31 UTC
+versionCode=173
+versionName=0.3.0-alpha177
+novedades=alpha177: Tzar y los PC virtuales como programas nativos (nombre del juego, icono sacado del disco, acceso en el escritorio, a toda la ventana y sin la fila de teclas de Termux:X11); Reproductor con libVLC: audio E-AC3/AC3/DTS de los .mkv y todas las pistas de audio y subtítulos
