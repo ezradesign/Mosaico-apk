@@ -1,0 +1,4 @@
+Compilado desde 86027ea el 2026-11-27 13:13 UTC
+versionCode=172
+versionName=0.3.0-alpha176
+novedades=alpha176: fechas en español aunque Android esté en otro idioma; la barra de Mosaico tapa entera la barra de tareas de Android en tabletas Pixel
