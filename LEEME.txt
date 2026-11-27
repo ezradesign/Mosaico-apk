@@ -1,0 +1,4 @@
+Compilado desde a64bce9 el 2026-11-27 16:23 UTC
+versionCode=179
+versionName=0.3.0-alpha183
+novedades=alpha183: el lanzador de Wine cierra los restos de intentos anteriores (consola de start.exe y avisos de Error); HANDOFF: límites de las ventanas sin ADB en Android puro
