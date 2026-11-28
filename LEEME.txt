@@ -1,0 +1,4 @@
+Compilado desde 4bc811a el 2026-11-28 10:46 UTC
+versionCode=199
+versionName=0.3.0-alpha203
+novedades=alpha203: sonido de los programas del motor y su nombre en el marco
