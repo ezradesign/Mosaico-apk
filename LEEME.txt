@@ -1,0 +1,4 @@
+Compilado desde bb84925 el 2026-11-28 09:45 UTC
+versionCode=193
+versionName=0.3.0-alpha197
+novedades=Hoja de ruta: motor propio sin Termux como primer paso de Windows y Linux
