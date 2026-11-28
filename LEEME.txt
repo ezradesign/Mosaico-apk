@@ -1,0 +1,4 @@
+Compilado desde fcfc41c el 2026-11-28 16:37 UTC
+versionCode=215
+versionName=0.3.0-alpha219
+novedades=alpha219: el motor propio pasa a ser lo normal para Windows y Linux
