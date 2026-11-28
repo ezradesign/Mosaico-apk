@@ -1,0 +1,4 @@
+Compilado desde b6dcfa5 el 2026-11-28 15:18 UTC
+versionCode=212
+versionName=0.3.0-alpha216
+novedades=alpha216: al cerrar un programa del motor se cierra entero; aviso mientras abre
