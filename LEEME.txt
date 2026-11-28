@@ -1,0 +1,4 @@
+Compilado desde 1011690 el 2026-11-28 11:06 UTC
+versionCode=200
+versionName=0.3.0-alpha204
+novedades=alpha204: programas de Windows con el Wine del motor propio (en pruebas)
