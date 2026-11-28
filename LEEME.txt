@@ -1,0 +1,4 @@
+Compilado desde a950993 el 2026-11-28 09:58 UTC
+versionCode=194
+versionName=0.3.0-alpha198
+novedades=Mosaico Linux (motor propio sin Termux), paso 1: app aparte que instala Debian con proot y ejecuta órdenes para Mosaico; alpha198 con el cliente y la prueba en el Panel de Linux; HANDOFF
